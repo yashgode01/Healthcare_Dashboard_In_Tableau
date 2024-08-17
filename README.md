@@ -9,8 +9,7 @@ This project showcases information about the inpatient data of the hospital whic
 The dataset used for this analysis is the ".csv" excel file.
 
 ### Tools
-Excel
-Tableau
+Excel, Tableau
 
 ### Below are the key point indicators in order to analyze the sales data and generate insights out of it:
 Provider wise Credentials
