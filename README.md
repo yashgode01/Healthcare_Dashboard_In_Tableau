@@ -27,7 +27,7 @@ Excel, Tableau
 ### Results/ Findings:
 1. Doctors having credentials in 'MD' degree is maximum.
 
-2. The highest number of white race patients are admitted.
+2. The White Race Count Beneficiaries is maximum.
 
 3. The maximum patients are suffering Hypertension compared to depression.
 
