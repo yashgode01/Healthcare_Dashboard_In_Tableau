@@ -11,7 +11,6 @@ The dataset used for this analysis is the ".csv" excel file.
 ### Tools
 
 Excel
-
 Tableau
 
 ### Below are the key point indicators in order to analyze the sales data and generate insights out of it:
