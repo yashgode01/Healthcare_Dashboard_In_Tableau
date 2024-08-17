@@ -12,17 +12,17 @@ The dataset used for this analysis is the ".csv" excel file.
 Excel, Tableau
 
 ### Below are the key point indicators in order to analyze the sales data and generate insights out of it:
-1.Provider wise Credentials
+1. Provider wise Credentials
 
-2.Beneficiaries by race count
+2. Beneficiaries by race count
 
-3.Depression vs Hypertension
+3. Depression vs Hypertension
 
-4.Medicare allowed vs payment allowed
+4. Medicare allowed vs payment allowed
 
-5.State wise Beneficiaries
+5. State wise Beneficiaries
 
-6.Diseases wise Beneficiaries
+6. Diseases wise Beneficiaries
 
 ### Results/ Findings:
 Doctors having credentials in 'MD' degree is maximum.
