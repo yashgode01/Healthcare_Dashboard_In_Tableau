@@ -13,10 +13,15 @@ Excel, Tableau
 
 ### Below are the key point indicators in order to analyze the sales data and generate insights out of it:
 Provider wise Credentials
+
 Beneficiaries by race count
+
 Depression vs Hypertension
+
 Medicare allowed vs payment allowed
+
 State wise Beneficiaries
+
 Diseases wise Beneficiaries
 
 ### Results/ Findings:
