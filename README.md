@@ -25,17 +25,17 @@ Excel, Tableau
 6. Diseases wise Beneficiaries
 
 ### Results/ Findings:
-Doctors having credentials in 'MD' degree is maximum.
+1. Doctors having credentials in 'MD' degree is maximum.
 
-The highest number of white race patients are admitted.
+2. The highest number of white race patients are admitted.
 
-The maximum patients are suffering Hypertension compared to depression.
+3. The maximum patients are suffering Hypertension compared to depression.
 
-The maximum medicare amount is paid to the male doctors.
+4. The maximum medicare amount is paid to the male doctors.
 
-The California state is having maximum beneficiaries.
+5. The California state is having maximum beneficiaries.
 
-Highest number of patients are suffering from Hypertension.
+6. Highest number of patients are suffering from Hypertension.
 
 
 
