@@ -9,7 +9,6 @@ This project showcases information about the inpatient data of the hospital whic
 The dataset used for this analysis is the ".csv" excel file.
 
 ### Tools
-
 Excel
 Tableau
 
