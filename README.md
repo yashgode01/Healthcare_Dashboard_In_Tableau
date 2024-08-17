@@ -37,6 +37,10 @@ Excel, Tableau
 
 6. Highest number of patients are suffering from Hypertension.
 
+### Project link
+
+https://public.tableau.com/views/HealthcareDashboard_16942453217000/HealthcareDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 
 
